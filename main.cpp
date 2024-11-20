@@ -13,9 +13,11 @@ void get_text(ifstream& file, vector<string>& text_from_file){
         cout << "no open" << endl;
         return;
     }
+
     while(getline(file, s)){
         text_from_file.push_back(s);
     }
+
 }
 
 void print_text(vector<string>& text_from_file){
