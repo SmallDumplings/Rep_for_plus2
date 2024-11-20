@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 bin/
 obj/
+=======
+>>>>>>> first_branch
 all_code.cpp
 text_output.txt
 Fourth_project.depend
 Fourth_project.layout
+<<<<<<< HEAD
+=======
+bin/
+obj/
+>>>>>>> first_branch
