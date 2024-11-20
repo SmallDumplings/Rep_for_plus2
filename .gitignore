@@ -1,4 +1,6 @@
-.\bin
-.\obj
 all_code.cpp
 text_output.txt
+Fourth_project.depend
+Fourth_project.layout
+bin/
+obj/
